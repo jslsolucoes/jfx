@@ -20,6 +20,7 @@ testbin/
 org.eclipse.buildship*
 
 # Ignore IntelliJ files
+.idea
 .idea/tasks.xml
 .idea/workspace.xml
 .idea/inspectionProfiles/**
